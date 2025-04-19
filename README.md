@@ -20,7 +20,7 @@ The schematic is divided into the following key sections:
 ### Voltage-Frequency Converter
 - **Purpose:** This block, based on the **LM331**, controls and filters the input signal.
 - **Adjustment:** The signal can be adjusted using an **R3 potentiometer** for finer control over the frequency.
-- **Issue:** The VCF isn't operating as expected due to incorrect resistor choices and insufficient current flowing into the IC.
+- **Issue:** The V/F Converter isn't operating as expected due to incorrect resistor choices and insufficient current flowing into the IC.
 
 ### Adding Offset
 - **Purpose:** Adds a frequency shift to the input signal, ensuring correct operation when dealing with a 0V input.
@@ -55,7 +55,7 @@ The analog switch operates by transferring charge from the **Vy** signal to a ca
 As a result, the amount of transferred charge—and thus the output voltage—depends on both the **Vy** amplitude and the frequency determined by **Vx**. This results in **analog multiplication** of **Vx** and **Vy**.
 
 ## Known Issues
-- The **VCF** is not functioning correctly due to improper resistor selection and insufficient current flow to the integrated circuit. This needs to be addressed for proper operation.
+- The **V/F** is not functioning correctly due to improper resistor selection and insufficient current flow to the integrated circuit. This needs to be addressed for proper operation.
 
 ## PCB Design
 The physical implementation of the circuit has been designed using **KiCad EDA 8.0.2** software.
