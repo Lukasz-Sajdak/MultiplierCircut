@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TS912")(type "KiCad")(uri "C:/Users/lukas/Downloads/TS912IDT/KiCad")(options "")(descr ""))
+  (lib (name "LM331")(type "KiCad")(uri "C:/Users/lukas/Downloads/KiCad")(options "")(descr ""))
+  (lib (name "TL431")(type "KiCad")(uri "C:/Users/oliwi/Desktop/LIB_TL431BIDBZR/TL431BIDBZR/KiCad")(options "")(descr ""))
+  (lib (name "ICL7660")(type "KiCad")(uri "C:/Users/lukas/Downloads/ICL7660AIBAZA/KiCad")(options "")(descr ""))
+  (lib (name "DG419")(type "KiCad")(uri "C:/Users/lukas/Downloads/DG419DY-T1-E3/KiCad")(options "")(descr ""))
+)

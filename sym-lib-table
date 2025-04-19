@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TS912")(type "KiCad")(uri "C:/Users/lukas/Downloads/TS912IDT/KiCad/TS912IDT.kicad_sym")(options "")(descr ""))
+  (lib (name "ICL7660")(type "KiCad")(uri "C:/Users/lukas/Downloads/ICL7660AIBAZA/KiCad/ICL7660AIBAZA.kicad_sym")(options "")(descr ""))
+  (lib (name "LM331")(type "KiCad")(uri "C:/Users/lukas/Downloads/KiCad/LM331N_NOPB.kicad_sym")(options "")(descr ""))
+  (lib (name "TL431")(type "KiCad")(uri "C:/Users/lukas/Downloads/TL431BID/KiCad/TL431BID.kicad_sym")(options "")(descr ""))
+  (lib (name "DG419")(type "KiCad")(uri "C:/Users/lukas/Downloads/DG419DY-T1-E3/KiCad/DG419DY-T1-E3.kicad_sym")(options "")(descr ""))
+)
