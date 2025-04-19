@@ -1,4 +1,4 @@
-![schemat](https://github.com/user-attachments/assets/8e788d99-24fc-4487-b4fc-0d267fac3ae7)# Multiplier Circuit
+# Multiplier Circuit
 
 ## Overview
 Analog multiplier circuit designed to perform multiplication of two input signals by utilizing various functional blocks working in tandem. The circuit uses customized components for efficient operation and to meet specific design requirements.
